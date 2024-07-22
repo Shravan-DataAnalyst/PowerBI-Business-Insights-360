@@ -9,10 +9,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 ## Home Page :
 
 ### Objectives
-
-    **1.** Created a Home page for the user to navigate to different Views in the Dashboard.
-
-    **2.** The Images have navigation to their respective Views.
+1. Created a Home page for the user to navigate to different Views in the Dashboard.
+2. The Images have navigation to their respective Views.
 
 - **Last Refreshed Date:** Shows the last data when the database was refreshed
 
